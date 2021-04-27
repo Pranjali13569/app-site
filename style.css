@@ -83,16 +83,16 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(space.jpeg);
+    background-image: url(https://i.pinimg.com/originals/4c/90/5c/4c905c926289f9352680d128d9d4c53c.jpg);
 }
 .card2{
-    background-image: url(thor.jpg);
+    background-image: url(https://images3.alphacoders.com/100/1009528.jpg);
 }
 .card3{
-    background-image: url(food.jpg);
+    background-image: url(https://mocah.org/thumbs/267462-wallpaper-1080-2400.jpg);
 }
 .card4{
-    background-image: url(tree.jpg);
+    background-image: url(https://wallpapercave.com/wp/wp5018449.jpg);
 }
 .card:hover{
    transform: translateY(-10px);
